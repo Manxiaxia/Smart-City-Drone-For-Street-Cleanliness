@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>DJI_0227.JPG</filename>
+	<path>C:\Users\Joel7\Desktop\resized_image\DJI_0227.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>215</ymin>
+			<xmax>273</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

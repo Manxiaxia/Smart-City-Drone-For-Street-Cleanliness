@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>DJI_0184.JPG</filename>
+	<path>C:\Users\Joel7\Desktop\resized_image\DJI_0184.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>233</ymin>
+			<xmax>158</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>88</ymin>
+			<xmax>183</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
