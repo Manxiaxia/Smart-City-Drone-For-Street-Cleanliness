@@ -6,6 +6,7 @@ LabelImg -- Image Labelling Tools, you do not need it for image prediction (Imag
 models -- Used for image prediction
 object_detection -- Not needed for image prediction (configuration files)
 protoc & sip -- Not needed for image prediction (configuration files)
+src.zip -- IOS APP 
 
 Instructions to do garbage prediction:
 
