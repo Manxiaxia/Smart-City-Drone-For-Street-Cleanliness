@@ -18,3 +18,11 @@ Go to model/research/object_detection
 Open the Garbage_detection.ipynb with jupyter notebook, run all cells to see the prediction results.
 You can change the images from model/research/object_detection/test_images
 If you want to do real-time video analysis, open video_obj with python
+
+
+Instructions to use dashboard:
+install express on computer. 
+Download the zip file and extract. 
+Build the files on express localhost. 
+At indext page, select actions. 
+Read notice before flight. 
